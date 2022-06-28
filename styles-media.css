@@ -1,0 +1,351 @@
+@media screen and (min-width:993px) and (max-width:1200px) {
+    .xyz{
+        
+        margin-top: 20px;
+    }
+    .form-class{
+        margin-left: 0px;
+    }
+    .section-1-img{
+        height: 200px;
+        width: 400px;
+        
+    }
+    .section-2-img{
+
+      
+        margin-top: 150px;
+        float: left;
+        margin-right: 10px;
+        width: 70%;
+    }
+    .section-2-div{
+
+        margin-top: 180px;
+    }
+
+    .section-4-img-1{
+        width: 60%;
+    }
+    #section-5-div-2-column-2{
+ 
+        padding-left: 140px;
+    }
+    .testimonial-1{
+        background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105));
+        color: white;
+        height: 400px;
+    }
+}
+
+
+
+
+@media screen and (min-width:768px) and (max-width:993px) {
+    .xyz{
+        
+        margin-top: 20px;
+    }
+    .form-class{
+        margin-left: 0;
+    }
+    .section-1-img{
+        height: 200px;
+        width: 400px;
+    }
+    .section-2-img{
+
+        margin-top: 40px;
+        float: left;
+        margin-right: 0px;
+        width: 70%;
+    }
+    #section-2-div{
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .section-3-img{
+        width: 45%;
+        margin-left: 20px;
+        margin-top: 130px;
+        margin-bottom: 130px;
+    
+    }
+    .section-3-div{
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .section-4-img-1{
+        width: 55%;
+    }
+    #section-4-div-3{
+
+        border-right: 1px solid rgb(29, 5, 39);
+        border: hidden;
+        
+        }
+    #section-5-div-2-column-2{
+
+            padding-left: 180px;
+            padding-bottom: 20px;
+    }
+    #section-5-div-3-column-1{
+
+            padding: 30px;
+            padding-left: 180px;
+            padding-bottom: 40px;
+            padding-top: 40px;
+            padding-right: 0px;
+        }
+    #section-5-div-3-column-2{
+
+            padding: 30px;
+            padding-left: 40px;
+            padding-bottom: 40px;
+            padding-top: 40px;
+            padding-right: 30px;
+        }
+        .testimonial-1{
+            background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105));
+            color: white;
+            height: 400px;
+        }
+       
+}
+
+@media screen and (min-width:500px) and (max-width:768px) {
+    .xyz{
+        
+        margin-top: 20px;
+    }
+    .form-class{
+        margin-left: 0;
+    }
+    .section-1-img{
+         height: 200px;
+        width: 400px;
+        
+    }
+    .section-2-img{
+
+        margin-top: 40px;
+        margin-right: 0px;
+        width: 60%;
+    }
+    #section-2-div{
+
+        margin-top: 20px;
+        margin-bottom: 80px;  
+    }
+    #section-2{
+
+        background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105)); ;
+        height: 700px;
+        width: 100%;   
+    }
+    
+    .section-3-img{
+        width: 45%;
+        margin-left: 20px;
+        margin-top: 120px;
+        margin-bottom: 130px;
+    
+    }
+    .section-4-img-1{
+        width: 45%;
+    }
+    #section-4-div-3{
+
+        border-right: 1px solid rgb(29, 5, 39);
+        border: hidden;
+        
+        }
+     #section-4-div-2{
+
+        border-right: 1px solid rgb(29, 5, 39);
+        border: hidden;
+               
+    }
+
+    #section-5-div-2-column-2{
+
+        padding-left:150px;
+        padding-bottom: 20px;
+    }   
+    .section-5-div-2-column-2-img{
+        width: 50%;
+
+    }
+    #section-5-div-3-column-1{
+        padding-left: 150px;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    #section-5-div-3-column-2{
+
+        padding-left:50px;
+        padding-bottom: 20px;
+    }   
+    .section-5-div-3-column-1-img{
+        width: 50%;
+    }
+    .testimonial-1{
+        background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105));
+        color: white;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    
+    }
+    
+}
+
+
+@media screen and (min-width:100px) and (max-width:500px){
+    .xyz{
+        
+        margin-top: 20px;
+    }
+    .form-class{
+
+        background-color: white;
+        padding: 20px;
+        width: 250px;
+        margin-left: 0px;
+        
+    }
+
+    #header-paragraph-btn-2{
+        width: 210px;
+    }
+    .section-1-img{
+        height: 200px;
+        width: 200px;
+        position: static;
+        
+    }
+    .section-2-img{
+
+        margin-top: 20px;
+        margin-right: 10px;
+        width: 65%;
+    }
+    #section-2{
+
+        background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105)); ;
+        height: 650px;
+        width: 100%;
+    }
+
+    #section-2-btn{
+
+        padding: 15px;
+        background-color: rgb(58, 58, 230);
+    }
+
+    #section-2-div{
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .section-3-img{
+        width: 100%;
+        margin-top: 120px;
+    }
+    .section-3-div{
+
+        margin-top: 330px;
+        margin-bottom: 230px;
+    }
+    .section-4-img-1{
+        width: 50%;
+    }
+
+    #section-4-div-3{
+
+        border-right: 1px solid rgb(29, 5, 39);
+        border: hidden;
+        
+        }
+     #section-4-div-2{
+
+        border-right: 1px solid rgb(29, 5, 39);
+        border: hidden;
+               
+    }
+
+    #section-5-div-2-column-2{
+
+        padding-left:50px;
+        padding-bottom: 20px;
+    }   
+    .section-5-div-2-column-2-img{
+        width: 70%;
+
+    }
+    .section-5-div-2-column-1{
+        padding-left: 2px;
+        padding: 1px;
+    }
+    .section-5-div-2{
+        width: 100%;
+        background-color: rgb(250, 250, 250);
+        box-shadow: 2px 2px 2px 2px rgb(221, 218, 218);
+        margin-top: 60px;
+        border-radius: 8px;
+        width: 80%;
+        margin-left: 20px;
+    }
+    .section-5-div-3{
+        width: 100%;
+        background-color: rgb(250, 250, 250);
+        box-shadow: 2px 2px 2px 2px rgb(221, 218, 218);
+        margin-top: 60px;
+        border-radius: 8px;
+        width: 80%;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    #section-5-div-3-column-1{
+        padding-left: 60px;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    #section-5-div-3-column-2{
+
+        padding-left:50px;
+        padding-bottom: 20px;
+    }   
+    .section-5-div-3-column-1-img{
+        width: 70%;
+    }
+    .testimonial-1{
+        background-image:linear-gradient(rgb(33, 7, 51), rgb(86, 23, 105));
+        color: white;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+    
+    }
+    
+    .section-6-img{
+
+        margin-top: 140px;
+        margin-bottom: 40px;
+        width: 80%;
+    }
+    
+    
+    #abc-3{
+
+        margin-top: 40px;
+        margin-right: 70px;
+    }
+    .section-7-col-1-img{
+        width: 50%;
+    }
+}
